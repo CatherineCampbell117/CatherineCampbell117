@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Catherine
 - 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning HTML, CSS and Javascript as well as a little Java for app dev
+- 🌱 I’m currently learning HTML, CSS and Javascript
 - 👩‍🎓 Studying Web Design and Development at University
 
 <!---
